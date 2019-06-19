@@ -14,6 +14,7 @@
         <module>../eureka</module>
         <module>../config</module>
         <module>../clientOne</module>
+        <module>../clientTwo</module>
         <module>../repo</module>
     </modules>
 
